@@ -26,3 +26,8 @@ Key Insights Captured
   Sales Seasonality: Significant sales spikes visible in the latter half of the year (Weeks 40–50), likely correlating with holiday shopping.
   Content Strategy: A high concentration of "CC" and "R" rated content dominates the Prime library.
   Market Leaders: Identification of tech brands (Nikon, SanDisk) as primary drivers of both revenue and customer engagement.
+
+
+
+
+
